@@ -39,5 +39,5 @@ A ImageNet Challenge: object detection from video (VID)
 * 关于tubelet rescoring, 其实可以直接使用1D bayesian去做，　ｆｅａｔｕｒｅ使用detection scores（可以使用ｍｅａｎ，　median, or top-k）
 
 
-__ＰＰＴ: http://www.ee.cuhk.edu.hk/~xgwang/CUvideo.pdf__
-__Codes：　https://github.com/myfavouritekk/T-CNN__
+* __ＰＰＴ: http://www.ee.cuhk.edu.hk/~xgwang/CUvideo.pdf__
+* __Codes：　https://github.com/myfavouritekk/T-CNN__
