@@ -6,4 +6,6 @@ A ImageNet Challenge: object detection from video (VID)
 
 ### Motivation
 
+单帧检测
+
 http://www.ee.cuhk.edu.hk/~xgwang/CUvideo.pdf
