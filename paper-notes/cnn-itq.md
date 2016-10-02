@@ -12,11 +12,10 @@ TL;DR
 本文采用的ｈａｓｈｉｎｇ的方法是cvpr11年的[Iterative Quantization: A Procrustean Approach to Learning Binary Codes](http://web.engr.illinois.edu/~slazebni/publications/cvpr11_small_code.pdf)
 
 该方法的主要思路是：
-
-１． 对原始高维特征做PCA，设为`Ｖ`，
-2. 然后`V`中每一个元素都要映射到一个binary space, 在这个过程中，要使信息损失最少，就要解一个optimization problem: `min||B - V||`
-３． 上面是简单的映射，作者发现把`V`做一个旋转，　会降低quantization error, 所以上面公式变为: `min ||B - V*R||`, 这里`R`是一个旋转矩阵（正交）
-4. 在上式中，`B`和`R`是我们要求的，　作者采用了`k-means-like iterative quantization(ITQ)`,即固定一个求另一个。
+１ 对原始高维特征做PCA，设为`Ｖ`
+2 然后`V`中每一个元素都要映射到一个binary space, 在这个过程中，要使信息损失最少，就要解一个optimization problem: `min||B - V||`
+３ 上面是简单的映射，作者发现把`V`做一个旋转，　会降低quantization error, 所以上面公式变为: `min ||B - V*R||`, 这里`R`是一个旋转矩阵（正交）
+4 在上式中，`B`和`R`是我们要求的，　作者采用了`k-means-like iterative quantization(ITQ)`,即固定一个求另一个。
 
 具体的代码实现：
 
