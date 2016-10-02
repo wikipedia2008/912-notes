@@ -20,13 +20,13 @@ TL;DR
 
 具体的代码实现：
 
-１．　先初始化Ｒ，　即一个随机的正交矩阵
+* 先初始化Ｒ，　即一个随机的正交矩阵
 ```matlab
 R = randn(nbits, nbits)
 [U, ~, V] = svd(R);
 R = U(:, 1:nbits);
 ```
-2. 设置一个`max_iter`，　迭代去优化`B`和`R`
+* 设置一个`max_iter`，　迭代去优化`B`和`R`
 ```matlab
 for i = 1 : max_iter
     % Rotate V
