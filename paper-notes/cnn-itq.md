@@ -18,7 +18,7 @@ TL;DR
 * 上面是简单的映射，作者发现把`V`做一个旋转，　会降低quantization error, 所以上面公式变为: `min ||B - V*R||`, 这里`R`是一个旋转矩阵（正交）
 * 在上式中，`B`和`R`是我们要求的，　作者采用了`k-means-like iterative quantization(ITQ)`,即固定一个求另一个。
 
-![](http://yongyuan.name/images/posts/ITQ_hashing.png)
+![ITQ](http://yongyuan.name/images/posts/ITQ_hashing.png "")
 
 具体的代码实现：
 
