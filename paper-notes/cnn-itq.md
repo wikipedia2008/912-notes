@@ -2,14 +2,14 @@
 
 TL;DR
 
-这篇是ＩＣＩＰ２０１６ Best Paper. 主要创新是对AlexNet的ｆｃ７的ｆｅａｔｕｒｅ maps去做ｈａｓｈｉｎｇ, 目的是讲high-dimensional 的deep features转换成binary codes. 
+这篇是ICIP2016 Best Paper. 主要创新是对AlexNet的fc7的feature maps去做hashing, 目的是讲high-dimensional 的deep features转换成binary codes. 
 最后对每一个ｉｍａｇｅ会生成一个ｂｉｎａｒｙ map, 然后分割过程是采用的superpixel merging, 与传统方法不同在于使用的是这个binary codes.
 
 **其实可以在这个binary codes上做bounding box regression**
 
 ### Iterative Quantization Hashing
 
-本文采用的ｈａｓｈｉｎｇ的方法是cvpr11年的[Iterative Quantization: A Procrustean Approach to Learning Binary Codes](http://web.engr.illinois.edu/~slazebni/publications/cvpr11_small_code.pdf)
+本文采用的hashing的方法是cvpr11年的[Iterative Quantization: A Procrustean Approach to Learning Binary Codes](http://web.engr.illinois.edu/~slazebni/publications/cvpr11_small_code.pdf)
 
 该方法的主要思路是：
 
