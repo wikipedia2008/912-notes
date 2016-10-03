@@ -2,9 +2,9 @@
 
 ### TBD
 
-[ ] `[eccv16.EVE]` A Discriminative Framework for AnomalyDetection in Large Videos
-[ ] `[bmvc16.CNN]` Graph Based Convolutional Neural Network
-[ ] `[cvpr16.DET]` Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection
+* [ ] `[eccv16.EVE]` A Discriminative Framework for AnomalyDetection in Large Videos
+* [ ] `[bmvc16.CNN]` Graph Based Convolutional Neural Network
+* [ ] `[cvpr16.DET]` Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection
 
 ### 2016.10
 
