@@ -37,4 +37,4 @@ Google Research新发布的video classification benchmark,
 特征是对图像特征做了first, second and ordinal statistics, 然后经过decorrelate和normalization后，
 使用LR, SVM, 或mixture of experts做分类.
 
-![youtube-8m](youtube-8m.png, "youtube-8m")
+![youtube-8m](youtube-8m.png "youtube-8m")
