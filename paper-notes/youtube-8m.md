@@ -38,3 +38,5 @@ Google Research新发布的video classification benchmark,
 使用LR, SVM, 或mixture of experts做分类.
 
 ![youtube-8m](youtube-8m.png "youtube-8m")
+
+*by tfzhou*
