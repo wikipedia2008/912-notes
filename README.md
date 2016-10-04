@@ -1,4 +1,4 @@
-# paper-notes
+## paper-notes
 
 ### TBD
 
@@ -14,3 +14,8 @@
 * `[arxiv.POSE]` [Real-time Human Pose Estimation from Video with Convolutional Neural Networks](paper-notes/pose-video.md)
 * `[icip16.SEG]` [CNN-Aware Binary Map For General Semantic Segmentation](paper-notes/cnn-itq.md)
 * `[cvpr16.DET]` [Object Detection from Video Tubelets with Convolutional Neural Networks](paper-notes/tcnn.md)
+
+## Resources
+
+* [Deep Visualization Toolbox](http://yosinski.com/deepvis)
+* [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
