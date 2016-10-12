@@ -30,7 +30,7 @@ X /= np.std(X, axis = 0)
 * 先计算协方差矩阵，它描述了任意两个维度的数据的相关程度，其中对角线即是每一维数据的方差
 
 ```python
-X -= np.mean(X, axis = 0)
+X -= np.mean(X, axis = 0)of 
 cov = np.dot(X.T, X) / X.shape[0]
 ```
 
