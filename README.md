@@ -9,6 +9,8 @@
 
 ### 2016.10
 
+* `[cvpr14.DET]` [R-CNN: Regions with Convolutional Neural Network Features](paper-notes/rcnn.md)
+* `[cvpr16.ACT]` [What if we do not have multiple videos of the same action? —Video Action Localization Using Web Images](paper-notes/actionloc_web.md)
 * `[cvpr16.DET]` [Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection](paper-notes/track-transfer.md)
 * `[arxiv.CLAS]` [YouTube-8M: A Large-Scale Video Classification Benchmark](paper-notes/youtube-8m.md)
 * `[arxiv.POSE]` [Real-time Human Pose Estimation from Video with Convolutional Neural Networks](paper-notes/pose-video.md)
