@@ -21,3 +21,4 @@
 
 * [Deep Visualization Toolbox](http://yosinski.com/deepvis)
 * [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+* [Vision Tutorials](resources/vision_tutorials.md)
