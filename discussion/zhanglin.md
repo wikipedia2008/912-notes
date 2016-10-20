@@ -28,3 +28,8 @@ _Datasets_
 
 * UCF101
 * HMDB51
+
+### Reference
+
+* [A Key Volume Mining Deep Framework for Action Recognition](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_A_Key_Volume_CVPR_2016_paper.pdf)
+* [Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heilbron_Fast_Temporal_Activity_CVPR_2016_paper.pdf)
