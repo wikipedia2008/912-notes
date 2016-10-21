@@ -9,11 +9,11 @@
 ### Motivation 
 
 
-action localization 或 recognition 通常 off-line的。因此本文提出了on-line 的方法。
+* action localization 或 recognition 通常 off-line的。因此本文提出了on-line 的方法。
 
-本文不仅使用颜色等低层特征，同时使用 pose和 superpixel-based forground model来协同定位。
+* 本文不仅使用颜色等低层特征，同时使用 pose和 superpixel-based forground model来协同定位。
 
-创新点大概是前面所述的两点。（我想。）
+* 创新点大概是前面所述的两点。（我想。）
 文中使用 superpixel-based model做了分割，分割结果用来训练了一个SVM，来做action recognition(然而效果并不好)。
 
 ### Method
