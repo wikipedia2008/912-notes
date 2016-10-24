@@ -1,4 +1,4 @@
- ## [Pose for Action - Action for Pose](https://arxiv.org/pdf/1603.04037v1.pdf)。
+ ##[Pose for Action - Action for Pose](https://arxiv.org/pdf/1603.04037v1.pdf)
 
  * 文章是使用 Action Recognition的结果来改善 Pose Estimate，再使用Pose Estimate 的结果来改善Action Recognition的结果。这样一个迭代的优化过程。
 
