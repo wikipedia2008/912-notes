@@ -1,4 +1,4 @@
-## [Predicting the Where and What of actors and actions through Online Action Localization](http://crcv.ucf.edu/papers/cvpr2016/Soomro_CVPR2016.pdf)
+##[Predicting the Where and What of actors and actions through Online Action Localization](http://crcv.ucf.edu/papers/cvpr2016/Soomro_CVPR2016.pdf)
 
 ### Goal
 
@@ -18,7 +18,7 @@
 
 ### Method
 
-! [act_pose](https://github.com/tfzhou/912-notes/blob/master/paper-notes/action_pose.png)
+![act_pose](https://github.com/tfzhou/912-notes/blob/master/paper-notes/action_pose.png)
 
 * 方法的第一步是对视频中的每一幅图像初始化了 super-pixel 和 pose-estimation.
 * pose-estimation 得到的bounding box作为已知，内部超像素作为positive 样本，外部超像素作为negative样本，学习一个表观模型。
