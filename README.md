@@ -9,6 +9,7 @@
 
 ### 2016.10
 
+* `[cvpr16.ACT]` [Pose for Action- Action for Pose](https://github.com/tfzhou/912-notes/blob/master/paper-notes/pose_for_action.md)
 * `[cvpr16.ACT]` [Predicting theWhere and What of actors and actions through Online Action Localization](paper-notes/action_pose.md)
 * `[cvpr14.DET]` [R-CNN: Regions with Convolutional Neural Network Features](paper-notes/rcnn.md)
 * `[cvpr16.ACT]` [What if we do not have multiple videos of the same action? —Video Action Localization Using Web Images](paper-notes/actionloc_web.md)
