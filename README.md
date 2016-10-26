@@ -2,6 +2,17 @@
 
 ### TBD
 
+_zhanglin_
+* `[cvpr15.ACT]` [What do 15,000 object categories tell us about classifying and localizing actions](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7298599)
+* `[acmm15.ACT]` [Temporal Localization of Fine-Grained Actions in Videosby Domain Transfer from Web Images](http://delivery.acm.org/10.1145/2810000/2806226/p371-sun.pdf?ip=128.199.69.254&id=2806226&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=686429016&CFTOKEN=86918994&__acm__=1477470067_137ed60f951d8843e69ddd27dc97212a)
+* `[cvpr15.ACT]` [Space-Time Tree Ensemble for Action Recognition](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ma_Space-Time_Tree_Ensemble_2015_CVPR_paper.pdf)
+* `[eccv16.SEG]` [Semantic Co-segmentation in Videos](https://dl.dropboxusercontent.com/u/73240677/ECCV16/eccv16_cosegmentation.pdf)
+* `[eccv16.ACT]` [Towards Weakly-Supervised Action Localization](https://hal.inria.fr/hal-01317558/document)
+* `[iccv15.TRK]` [Unsupervised Object Discovery and Tracking in Video Collections](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kwak_Unsupervised_Object_Discovery_ICCV_2015_paper.pdf)
+* `[arxiv.ACT]` [VideoLSTM Convolves, Attends and Flowsfor Action Recognition](https://arxiv.org/pdf/1607.01794v1.pdf)
+
+
+_tfzhou_
 * `[eccv16.EVE]` A Discriminative Framework for AnomalyDetection in Large Videos
 * `[bmvc16.CNN]` Graph Based Convolutional Neural Network
 * `[cvpr16.SR ]` Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
