@@ -15,6 +15,6 @@ TL;DR
 
 ![公式7](detect_action_inUntrimmed2.png "detect_action_untrimmed2")
 
-*　文章中选取action proposal所用的是uniformly sampling over time.
+* 文章中选取action proposal所用的是uniformly sampling over time.
 
 * 文章在训练过程中做了两次训练：一次不使用class信息，一次使用class信息。　结果表明包含class信息的Dictionary更好用。
