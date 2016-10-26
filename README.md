@@ -9,6 +9,7 @@
 
 ### 2016.10
 
+* `[cvpr16.ACT]` [Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos](https://github.com/tfzhou/912-notes/blob/master/paper-notes/detect_action_inUtrimmed.md)
 * `[cvpr16.ACT]` [Pose for Action- Action for Pose](https://github.com/tfzhou/912-notes/blob/master/paper-notes/pose_for_action.md)
 * `[cvpr16.ACT]` [Predicting theWhere and What of actors and actions through Online Action Localization](paper-notes/action_pose.md)
 * `[cvpr14.DET]` [R-CNN: Regions with Convolutional Neural Network Features](paper-notes/rcnn.md)
