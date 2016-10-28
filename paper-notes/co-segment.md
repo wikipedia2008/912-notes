@@ -9,6 +9,10 @@
 * 输入是物体类别未知的一系列视频，目的是得到发现并分割到视频中的主要物体，并对物体类别做出标注。
 * 文章使用FCN对所有视频中的图像产生proposal, 并给每个proposal做一个lable。
 * 具有相同lable的图像做聚类，在每个类中随机选取(每隔约20图) initial图像，进一步使用tracking的方法，向前和向后分别跟踪形成tracklet.
+* tracking 的方法：
+![tracking](co-segment4.png "co-segment")
+![tracking-unary](co-segment3.png "co-segment")
+其中，unary项约束appearance和location, appearance包含利用color histogram所训练出来的svm，以及cnn特征。
 
 ### Semantic Tracklet Co-selection via Submodular Function
 
