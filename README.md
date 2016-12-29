@@ -11,7 +11,8 @@ _tfzhou_
 
 ### 2016.12
 
-* `[IJCAI15.SEG]` [Semantic Single Video Segmentation with Robust Graph Representation](paper-notes/seg-lowrank.md)
+* `[ijcai15.SEG]` [Semantic Single Video Segmentation with Robust Graph Representation](paper-notes/seg-lowrank.md)
+* `[cvpr15.SAL]` [Saliency Detection via Cellular Automata](paper-notes/celluar-automata-saliency.md)
 
 ### 2016.10
 
