@@ -2,8 +2,9 @@
 
 ### TBD
 
-
-_tfzhou_
+* `[arxiv17.ACT]` Tube Convolutional Neural Network (T-CNN) for Action Detection in Videos
+* `[arxiv17.LEARN]` Unsupervised learning from videoto detect foreground objects in single images
+* `[arxiv17.PROP]` FastMask: Segment Multi-scale Object Candidates in One Shot
 * `[eccv16.EVE]` A Discriminative Framework for AnomalyDetection in Large Videos
 * `[bmvc16.CNN]` Graph Based Convolutional Neural Network
 * `[cvpr16.SR ]` Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
